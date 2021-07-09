@@ -1,7 +1,6 @@
-# TCP-Server-Client-Implementation
-## Transmission Control Protocol Simulator
+# TCP-Server-Client-Simulator
 * A pair of server-client that enable to send and recieve data packs between devices
-* TCP
+* Transmission Control Protocol
 * C
 
 ![Variable Declaration](/img/2.png)
