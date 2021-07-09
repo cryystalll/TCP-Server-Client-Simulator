@@ -4,4 +4,4 @@
 * TCP
 * C
 
-![Variable Declaration](/img/GANmango.png)
+![Variable Declaration](/img/2.png)
